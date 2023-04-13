@@ -1,6 +1,6 @@
 # This is Ned's CV
 
-Get the current version in PDF format <a href="https://github.com/emolter/MolterCV/blob/main/Molter_cv.pdf">here</a>: <a href="https://github.com/emolter/MolterCV/blob/main/Molter_cv.pdf"><img src="https://img.shields.io/badge/PDF-latest-orange.svg?style=flat" alt="latest-PDF-button"></a>
+Get the current version in PDF format <a href="https://github.com/emolter/MolterCV/blob/main/Molter_cv.pdf">here</a>: <a href="https://github.com/emolter/MolterCV/blob/main/Molter_cv.pdf"><img src="https://img.shields.io/badge/PDF-latest-orange.svg?style=flat" alt="latest-PDF-button"></a>  Download it to make the links clickable!
 
 ## License
 Copyright 2022, the author. Feel free to use my code, macros, and formatting, but if you use anything else *that's weird*.
